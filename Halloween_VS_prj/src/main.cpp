@@ -20,6 +20,7 @@
 
 void setup()
 {
+    go;
     Serial.begin(115200);
     smartdisplay_init();
     ui_init();
